@@ -69,20 +69,4 @@ Edit
 3. The Avengers  
 4. The Legend of Tarzan  
 5. Battleship
-📦 Installation
-Clone the repository and run the notebook:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/movie-recommendation-system.git
-cd movie-recommendation-system
-jupyter notebook
-
-pip install pandas numpy scikit-learn nltk
-📈 Future Enhancements
-Add a web interface using Streamlit or Flask
-
-Incorporate collaborative filtering or hybrid approaches
-
-Deploy the model for public use
